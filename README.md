@@ -1,4 +1,4 @@
-# Breast-Cancer-
+# Breast-Cancer
 About the dataset:
 • The Breast Cancer datasets is available UCI machine learning repository maintained by the University of California, Irvine.
 
